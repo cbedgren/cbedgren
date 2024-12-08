@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently a full time student at Brigham Young
 
 ## My Tech Stack
 
-- Proficient in Python, C++, and SQL.
+- Proficient in Python, C++, Go, and SQL.
 - Tools I frequently use: NumPy, Pandas, MatPlotLib, Tableau, PyTorch.
 
 ## Connect with Me
